@@ -1,0 +1,33 @@
+.Sidebar {
+	border: 2px dotted #3399FF;
+	border-radius: 5px;
+
+
+}
+
+#peopleinput{
+	color: black;
+	background-color: white;
+	margin-left: 1px;
+}
+
+#plusbutton {
+	height: 34px;
+	margin-left: 1px;
+}
+
+#minusbutton {
+	height: 34px;
+	margin-left: 1px;
+}
+
+#totalpriceSB {
+	text-align: center;
+}
+
+#confirmbutton {
+	height: 34px;
+	margin-left: 80px;
+}
+
+

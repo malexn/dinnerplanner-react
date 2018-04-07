@@ -1,0 +1,19 @@
+#toprint{
+	height: 34px;
+	margin-left: 5px;
+}
+
+#backtosearch1{
+	height: 34px;
+	margin-right: 40px;
+	float: right;
+}
+
+.totalmenupriceCD {
+	text-align: right;
+	margin-right: 80px;
+}
+
+td {
+	font-weight: bold;
+}

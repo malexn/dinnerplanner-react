@@ -1,0 +1,53 @@
+#gif1 {
+	position: absolute;
+  	left: 50%;
+  
+}
+
+#searchinput{
+	color: black;
+	background-color: white;
+}
+
+#search{
+	text-align: center;
+}
+
+#dishes {
+	margin: 1px;
+	width: 300px;
+	height: 204px;
+	border: 2px solid grey;
+	border-radius: 5px;
+	background-color: lightgrey;
+	overflow: hidden;
+	
+}
+
+#dishes:hover {
+	background-color: #d7dfed;
+}
+
+#dishpic {
+	width: 240px;
+	height: 150px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pictext {
+	text-align: center;
+	font-weight: bold;
+
+}
+	
+a:link {
+	color: black;
+}
+
+a:visited {
+    color: purple;
+}
+
+

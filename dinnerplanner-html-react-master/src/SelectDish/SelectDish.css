@@ -1,0 +1,16 @@
+#search {
+	margin: auto;
+	margin-right: 40px;
+    padding: 10px;
+
+}
+
+#searchinput {
+	height: 34px;
+	width: 300px;
+	border-radius: 4px;
+}
+
+#category {
+	height: 34px;
+}

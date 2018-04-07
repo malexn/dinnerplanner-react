@@ -1,0 +1,21 @@
+#backtoconfirm {
+	margin: 1px;
+}
+
+#printbutton {
+	margin: 1px;
+}
+
+#backtosearch {
+	margin-right: 50px;
+	float: right;
+}
+
+#th1, #th2, #th3 {
+	width: 33%;
+}
+
+#td1, #td2, #td3 {
+	width: 33%;
+
+}
